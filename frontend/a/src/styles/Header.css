@@ -1,0 +1,61 @@
+header {
+    background-color: purple;
+    padding: 10px 20px;
+    
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 20px;
+    color: white;
+}
+
+.search-input {
+    width: 250px;
+    margin-right: 20px;
+    height: 30px;
+}
+
+.user-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: white;
+}
+
+.cart-link {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: white;
+    text-decoration: none;
+    size: 30px;
+}
+.cart-text{
+    color: white;
+    
+}
+.sign-in-link {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: white;
+    text-decoration: none;
+}
+.main-nav {
+    margin-top: 10px;
+    color: white;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    color: white;
+}
